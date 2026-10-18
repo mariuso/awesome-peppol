@@ -33,4 +33,4 @@
 
 - [Digdir Validator](https://anskaffelser.dev/service/validator/) - Document validator supporting Peppol BIS and EHF documents operated by the Norwegian Digitalisation Agency
 - [ecosio Validator](https://ecosio.com/en/peppol-e-invoice-xml-document-validator/) - Document validator supporting many document standards provided by ecosio
-- [Peppol validator](peppolvalidator.com) - Free third party validator
+- [Peppol validator](https://peppolvalidator.com) - Free third party validator
